@@ -1,0 +1,26 @@
+[
+    {
+        "age": 18,
+        "class_num": 3,
+        "gender": 1,
+        "grade": 23,
+        "height": 188,
+        "id": 61,
+        "name": "Justin",
+        "rank": 1,
+        "score": 100,
+        "weight": 62
+    },
+    {
+        "age": 18,
+        "class_num": 3,
+        "gender": 1,
+        "grade": 23,
+        "height": 182,
+        "id": 62,
+        "name": "Jack",
+        "rank": 2,
+        "score": 99,
+        "weight": 58
+    }
+]

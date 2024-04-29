@@ -1,0 +1,3 @@
+id	name	age	height	weight	gender	class_num	grade	score	rank	salary
+61	Justin	18	188	62	1	3	23	100	1	0
+62	Jack	18	182	58	1	3	23	99	2	0

@@ -1,0 +1,5 @@
+C:/Users/35658/Downloads/cpp_proj/cpp_proj/cmake-build-debug/CMakeFiles/cpp_proj.dir
+C:/Users/35658/Downloads/cpp_proj/cpp_proj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/35658/Downloads/cpp_proj/cpp_proj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/35658/Downloads/cpp_proj/cpp_proj/cmake-build-debug/CMakeFiles/cpp_proj_autogen_timestamp_deps.dir
+C:/Users/35658/Downloads/cpp_proj/cpp_proj/cmake-build-debug/CMakeFiles/cpp_proj_autogen.dir

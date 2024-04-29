@@ -1,0 +1,7 @@
+Package: libpqxx
+Version: 7.9.0
+Depends: libpq, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-mingw-dynamic
+Multi-Arch: same
+Abi: 22c9c7115870ad727f2792c8ebc7d601f96392dc7fb69d87ced55bcc6b9801c3
+Description: The official C++ client API for PostgreSQL
