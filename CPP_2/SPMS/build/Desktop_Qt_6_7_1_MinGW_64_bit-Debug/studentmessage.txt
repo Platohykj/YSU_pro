@@ -1,0 +1,11 @@
+StudentId Name Gender Nationality Age Province Chinese Math English 
+20231001 Alice Female Han 18 Guangdong 90 85 92 
+20231002 Bob Male Zhuang 19 Guangxi 85 80 88 
+20231003 Charlie Male Han 17 Hunan 92 88 90 
+20231004 David Male Miao 20 Guizhou 88 92 80 
+20231005 Emily Female Han 18 Sichuan 85 90 88
+20231006 Frank Male Yao 19 Yunnan 80 85 92 
+20231007 Grace Female Han 17 Hubei 90 88 85 
+20231008 Henry Male Zhuang 20 Guangxi 88 92 80 
+20231009 Isabella Female Han 18 Sichuan 92 85 90 
+20231010 Jack Male Miao 19 Guizhou 85 88 88 
